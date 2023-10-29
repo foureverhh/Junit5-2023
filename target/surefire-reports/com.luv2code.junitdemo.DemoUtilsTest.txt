@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.luv2code.junitdemo.DemoUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.13 s <<< FAILURE! - in com.luv2code.junitdemo.DemoUtilsTest
+com.luv2code.junitdemo.DemoUtilsTest.testEqualsAndNotEquals  Time elapsed: 0.009 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 2 + 4 should equals 6 ==> expected: <6> but was: <10>
+	at com.luv2code.junitdemo.DemoUtilsTest.testEqualsAndNotEquals(DemoUtilsTest.java:23)
+
